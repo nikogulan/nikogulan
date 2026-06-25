@@ -14,7 +14,7 @@ This role has built my practical approach to troubleshooting: understanding the 
 
 My goal is to transition into a junior software role focused on **Python automation, backend development, API and systems integration, and practical AI applications**. 
 
-- 🎓 Vocational secondary education: Computer Technician
+- 🎓 Education: Computer Technician
 - 🛠️ Current role: field maintenance of Croatian motorway infrastructure and computer equipment
 - 🔍 Strong in structured troubleshooting, technical documentation, fault isolation, and hardware/software support
 - 🧠 Target direction: Python automation, backend development, integrations, and applied AI
